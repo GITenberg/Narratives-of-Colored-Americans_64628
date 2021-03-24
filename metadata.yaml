@@ -1,0 +1,37 @@
+_repo: Narratives-of-Colored-Americans_64628
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Mott, Abigail
+    aliases:
+    - Field, Abigail
+    - Mott, Abigail Field
+    - Mott, A. (Abigail)
+    birthdate: 1766
+    deathdate: 1851
+    gutenberg_agent_id: '52992'
+    url: http://www.gutenberg.org/2009/agents/52992
+  - agent_name: Wood, M. S. (Mary Sutton)
+    aliases:
+    - Underhill, Mary Sutton
+    - Wood, Mary S. (Mary Sutton)
+    - Wood, Mary Sutton
+    birthdate: 1805
+    deathdate: 1894
+    gutenberg_agent_id: '52993'
+    url: http://www.gutenberg.org/2009/agents/52993
+description: ''
+gutenberg_issued: '2021-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans -- Biography'
+- GITenberg
+title: Narratives of Colored Americans
+url: http://www.gutenberg.org/ebooks/64628
